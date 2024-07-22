@@ -13,7 +13,7 @@ superuser: true
 role: Professor of Aerospace Engineering
 # Organizations/Affiliations
 organizations:
-  - name:Sheffield University
+  - name: Sheffield University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
